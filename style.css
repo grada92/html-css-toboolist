@@ -4,23 +4,24 @@
     box-sizing: border-box;
 
    }
-
+ /*BODY */
    body {
     background-color: #f6f8f9;
    }
+/* /BODY */
 
 
-   
+   /*HEADER*/  
 header {
     width: 100%;
     background-color: white;
     height: 60px;
-    position: relative
-    
-   
-     
-    
+    position: relative  
 }
+
+ /* /HEADER */
+
+ /* TITOLOHEADER */
 
 #titoloheader {
     font-size: 50px;
@@ -30,10 +31,10 @@ header {
     display: inline-block;
     position: absolute;
     margin-top: -5px;
-    
-
 }
+/* /TITOLOHEADER*/
 
+/* SECTION1 */
 .section1{
     background-color: white;
     background-size: auto;
@@ -42,8 +43,8 @@ header {
     border-radius: 3px;
     padding-top: 15px;
     margin-bottom: 50px;
-   
 }
+/* /SECTION1 */
 
 #button1 {
     background-color: #47adf1;
