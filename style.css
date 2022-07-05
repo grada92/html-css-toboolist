@@ -68,12 +68,17 @@ header {
 .section1{
 
 margin-bottom: 10px;
-padding-left: 100px;
+
 }
 
 hr{
     margin-top: 20px;
     border-color: #f6f8f9;
+    width:auto
+}
+
+.main1{
+    padding-left: 100px;
 }
 
 #titolinav {
@@ -81,3 +86,6 @@ font-size: 20px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.main2{
+    padding-left: 100px;
+}
