@@ -150,5 +150,19 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
 }
 
-    
+#button7 {
+    background-color: #d864a1;
+    border-radius: 10px;
+    border: none ;
+    padding: 5px 5px;
+    color: white;
+}
+
+#button8 {
+
+    background-color: #b0c926;
+    border-radius: 10px;
+    border: none ;
+    padding: 5px 5px;
+    color: white;
 }
