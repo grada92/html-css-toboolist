@@ -46,15 +46,17 @@ header {
 }
 /* /SECTION1 */
 
+/* BUTTON1 */
 #button1 {
     background-color: #47adf1;
     border-radius: 5px;
     border: none ;
     padding: 5px 5px;
     color: white;
-
 }
+/* /BUTTON1 */
 
+/* BUTTON2 */
 #button2 {
     background-size: 5px;
     background-color: white;
