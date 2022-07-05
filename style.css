@@ -93,10 +93,12 @@ hr{
 
 .main1{
     padding-left: 100px;
+    border-bottom: 1px solid #d3d7db;
+    padding-bottom: 10px;
 }
 
 /*MAIN*/
-#titolinav {
+.titolinav {
 font-size: 20px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -123,7 +125,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 /* /CHECK */
 
 /* SOTTOTITOLI */
- #sottotitoli {
+.sottotitoli {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  }
 
@@ -153,7 +155,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
  /*BUTTON3*/
 
-#button3 {
+.button3 {
     background-color: #47adf1;
     border-radius: 10px;
     border: none ;
@@ -164,7 +166,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 /* BUTTON4 */
 
-#button4 {
+.button4 {
     background-color: #9c72e4;
     border-radius: 10px;
     border: none ;
@@ -174,7 +176,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 /* /BUTTON4 */
 
 /* BUTTON5 */
-#button5 {
+.button5 {
     background-color: #64c0a9;
     border-radius: 10px;
     border: none ;
@@ -186,7 +188,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 /* BUTTON6 */
 
-#button6{
+.button6{
     background-color: #f29e33;
     border-radius: 10px;
     border: none ;
@@ -197,7 +199,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 /* /BUTTON6 */
 
 /* BUTTON7 */
-#button7 {
+.button7 {
     background-color: #d864a1;
     border-radius: 10px;
     border: none ;
@@ -209,7 +211,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 /* BUTTON8 */
 
-#button8 {
+.button8 {
 
     background-color: #b0c926;
     border-radius: 10px;
@@ -219,3 +221,11 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* /BUTTON8 */
+
+/* li */
+li {
+
+margin-bottom: 20px;
+}
+/* /li*/
+
