@@ -97,6 +97,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 2px 4px;
     margin-left: 5px;
     margin-right: 10px;
+    font-size: 8px;
 }
  #sottotitoli {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -104,4 +105,14 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
  ul {
     list-style: none;
+ }
+
+ .nocheck {
+    border-radius: 50%;
+    color: rgb(233, 27, 27);
+    border: rgb(233, 27, 27) solid 1px;
+    padding: 2px 4px;
+    margin-left: 5px;
+    margin-right: 10px;
+    font-size: 8px;
  }
