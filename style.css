@@ -133,3 +133,22 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 5px 5px;
     color: white;
 }
+
+#button5 {
+    background-color: #64c0a9;
+    border-radius: 10px;
+    border: none ;
+    padding: 5px 5px;
+    color: white;
+}
+
+#button6{
+    background-color: #f29e33;
+    border-radius: 10px;
+    border: none ;
+    padding: 5px 5px;
+    color: white;
+}
+
+    
+}
