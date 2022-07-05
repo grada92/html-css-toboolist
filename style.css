@@ -6,7 +6,7 @@
    }
 
    body {
-    background-color: grey;
+    background-color: #f6f8f9;
    }
 
 
@@ -35,6 +35,9 @@ header {
 }
 
 .main1{
+    background-color: white;
+    background-size: auto;
     margin-bottom: 30px;
-    margin: 0 , auto ;
+    margin: 150px
+
 }
