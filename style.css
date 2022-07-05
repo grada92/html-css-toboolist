@@ -89,3 +89,11 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .main2{
     padding-left: 100px;
 }
+
+.check {
+    border-radius: 50%;
+    color: green;
+    border: green solid 1px;
+    padding: 3px 6px;
+    margin-left: 5px;
+}
