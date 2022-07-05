@@ -68,12 +68,18 @@ header {
      ;
 }
 
+/* /BUTTON2 */
+
+/* SECTION1 */
 .section1{
 
 margin-bottom: 10px;
 
-
 }
+
+/* /SECTION1 */
+
+/* HR */
 
 hr{
     margin-top: 20px;
@@ -81,19 +87,29 @@ hr{
     width:auto
 }
 
+/* /HR */
+
+/* MAIN */
+
 .main1{
     padding-left: 100px;
 }
 
+/*MAIN*/
 #titolinav {
 font-size: 20px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+/* /MAIN */
+
+/*MAIN2*/
 
 .main2{
     padding-left: 100px;
 }
+/* /MAIN2*/
 
+/* CHECK */
 .check {
     border-radius: 50%;
     color: green;
@@ -103,6 +119,8 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-right: 10px;
     font-size: 8px;
 }
+
+/* /CHECK */
  #sottotitoli {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  }
