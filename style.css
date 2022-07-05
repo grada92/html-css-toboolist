@@ -2,13 +2,21 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
    }
 
+   body {
+    background-color: grey;
+   }
+
+
+   
 header {
     width: 100%;
     background-color: white;
     height: 60px;
     position: relative
+    
    
      
     
@@ -26,6 +34,7 @@ header {
 
 }
 
-main {
+.main1{
+    margin-bottom: 30px;
     margin: 0 , auto ;
 }
