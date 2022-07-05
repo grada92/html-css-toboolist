@@ -117,3 +117,11 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-right: 10px;
     font-size: 8px;
  }
+
+#button3 {
+    background-color: #47adf1;
+    border-radius: 10px;
+    border: none ;
+    padding: 5px 5px;
+    color: white;
+}
