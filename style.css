@@ -195,6 +195,8 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* /BUTTON6 */
+
+/* BUTTON7 */
 #button7 {
     background-color: #d864a1;
     border-radius: 10px;
@@ -202,6 +204,10 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 5px 5px;
     color: white;
 }
+
+/* /BUTTON7 */
+
+/* BUTTON8 */
 
 #button8 {
 
@@ -211,3 +217,5 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 5px 5px;
     color: white;
 }
+
+/* /BUTTON8 */
