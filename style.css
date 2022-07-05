@@ -38,6 +38,9 @@ header {
     background-color: white;
     background-size: auto;
     margin-bottom: 30px;
-    margin: 150px
+    margin: 150px;
+    border-radius: 3px;
+    padding-top: 15px;
+    
 
 }
